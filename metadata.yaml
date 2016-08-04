@@ -1,0 +1,27 @@
+_repo: The-Rifle-and-the-Hound-in-Ceylon_3231
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baker, Samuel White, Sir
+    birthdate: 1821
+    deathdate: 1893
+    gutenberg_agent_id: '796'
+    url: http://www.gutenberg.org/2009/agents/796
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Baker
+description: ''
+gutenberg_issued: '2002-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3231'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sri Lanka -- Description and travel'
+- !lcc 'DS'
+- !lcc 'SK'
+- !lcsh 'Hunting -- Sri Lanka'
+- GITenberg
+title: The Rifle and the Hound in Ceylon
+url: http://www.gutenberg.org/ebooks/3231
